@@ -1,0 +1,4 @@
+C:\Users\Aleksandra\Desktop\OOP_logistics_system\obj\Debug\net10.0\OOP_logistics_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandra\Desktop\OOP_logistics_system\obj\Debug\net10.0\OOP_logistics_system.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\OOP_logistics_system\obj\Debug\net10.0\OOP_logistics_system.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\OOP_logistics_system\obj\Debug\net10.0\OOP_logistics_system.csproj.CoreCompileInputs.cache
